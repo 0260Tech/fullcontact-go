@@ -1,4 +1,4 @@
-module github.com/fullcontact/0260Tech/fc
+module github.com/0260Tech/fullcontact-go/fc
 
 go 1.14
 
